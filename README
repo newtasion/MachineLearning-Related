@@ -1,6 +1,7 @@
 
 ForwardViterbi.cs: online Viterbi Algorithm using C#
 
+quant_classifier.py:  use sklearn to do classification.
 
 
 
